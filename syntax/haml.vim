@@ -79,7 +79,8 @@ hi def link hamlSelfCloser             Special
 hi def link hamlDespacer               Special
 hi def link hamlClassChar              Special
 hi def link hamlIdChar                 Special
-hi def link hamlTag                    Special
+" added by Priit in order to show html in unified colour
+hi def link hamlTag                    Statement
 hi def link hamlClass                  Type
 hi def link hamlId                     Identifier
 hi def link hamlPlainChar              Special
